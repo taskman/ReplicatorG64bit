@@ -1,0 +1,1 @@
+java -Xms1024m -Xmx4246m -Djava.library.path=. -classpath "lib\ReplicatorG;.;lib\filedrop.jar;lib\j3dcore.jar;lib\j3dutils.jar;lib\jcommon-1.0.16.jar;lib\jfreechart-1.0.13.jar;lib\miglayout-3.7.4.jar;lib\mrj.jar;lib\quaqua.jar;lib\ReplicatorG.jar;lib\RXTXcomm.jar;lib\twitter4j-2.0.10.jar;lib\vecmath.jar" replicatorg.app.Base
